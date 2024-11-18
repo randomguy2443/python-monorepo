@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.so
+.env
+.venv
+venv/
+.idea/
+.vscode/
+*.pkl
+*.h5
+*.model
+*.bin

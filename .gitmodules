@@ -1,0 +1,18 @@
+[submodule "algo/python"]
+	path = algo/python
+	url = https://github.com/TheAlgorithms/Python.git
+[submodule "core/awesome"]
+	path = core/awesome
+	url = https://github.com/vinta/awesome-python.git
+[submodule "core/data/airflow"]
+	path = core/data/airflow
+	url = https://github.com/apache/airflow.git
+[submodule "core/dist/ray"]
+	path = core/dist/ray
+	url = https://github.com/ray-project/ray.git
+[submodule "ml/transformers"]
+	path = ml/transformers
+	url = https://github.com/huggingface/transformers.git
+[submodule "ml/torch"]
+	path = ml/torch
+	url = https://github.com/pytorch/pytorch.git
